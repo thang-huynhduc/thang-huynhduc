@@ -82,8 +82,6 @@ motto: "Every line of code is a step toward mastery"
 
 ---
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
   
   ### 💫 "Code is like humor. When you have to explain it, it's bad." - Cory House
   
@@ -100,8 +98,6 @@ motto: "Every line of code is a step toward mastery"
   ![Profile Views](https://komarev.com/ghpvc/?username=thang-huynhduc&color=00d9ff&style=for-the-badge&label=Profile+Visitors)
   ![GitHub followers](https://img.shields.io/github/followers/thang-huynhduc?label=Followers&style=for-the-badge&color=00d9ff)
   ![GitHub stars](https://img.shields.io/github/stars/thang-huynhduc?label=Stars&style=for-the-badge&color=00d9ff)
-  
-<br><br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&animation=fadeIn" width="100%"/>
