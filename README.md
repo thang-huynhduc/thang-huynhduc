@@ -1,4 +1,4 @@
-# 🌟 Thang Huynh Duc
+<img src="./svg/Icon.svg" width="40" height="40" align="center" /> Thang Huynh Duc
 
 <div align="center">
 <img src="./svg/ThangHuynhDuc_svg.svg" alt="Thang-svg" width="100%" />
