@@ -1,17 +1,10 @@
 # 🌟 Thang Huynh Duc
 
 <div align="center">
+<img src="./svg/ThangHuynhDuc_svg.svg" alt="Thang-svg" width="100%" />
 
-```ascii
-╭─────────────────────────────────────────╮
-│  🚀 Full-Stack Developer in Training   │
-│  🎯 Building Tomorrow's Web Today       │
-╰─────────────────────────────────────────╯
-```
+## 🌐 Let's Connect!
 
-**`Crafting digital experiences from Ho Chi Minh City`**
-
-## 🌟 Let's Connect!
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/huynhducthang0205/" target="blank">
@@ -34,7 +27,7 @@
 
 ## 🎭 About Me
 
-Currently diving deep into the world of **Software Engineering** at the Academy of Cryptography Techniques (KMA), where I'm mastering the art of web development and exploring the endless possibilities of code.
+Currently diving deep into the world of **Software Engineering** at the **Academy of Cryptography Techniques (KMA)**, where I'm mastering the art of web development and exploring the endless possibilities of code.
 
 **Location:** Ho Chi Minh City, Vietnam 🇻🇳  
 **Status:** Actively seeking internship opportunities to grow and contribute
@@ -44,6 +37,7 @@ Currently diving deep into the world of **Software Engineering** at the Academy 
 <div align="center">
 
 ### Frontend Magic ✨
+
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
@@ -60,6 +54,7 @@ Currently diving deep into the world of **Software Engineering** at the Academy 
 &nbsp;
 
 ### Backend Power ⚡
+
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
@@ -71,7 +66,8 @@ Currently diving deep into the world of **Software Engineering** at the Academy 
 
 </div>
 
-## 🔥Github Stats
+## 📈 Github Stats
+
 <div align=center>
   <a href="#" title="ThangHuynhDuc">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thang-huynhduc&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
@@ -81,31 +77,9 @@ Currently diving deep into the world of **Software Engineering** at the Academy 
   </a>
 </div>
 
-## 🎯 Current Mission
+---
 
-```javascript
-const currentGoals = {
-  primary: "🔍 Hunting for the perfect internship opportunity",
-  learning: "📚 Expanding full-stack development skills",
-  building: "💡 Creating innovative web solutions",
-  networking: "🤝 Connecting with industry professionals"
-};
-```
-
-## 📈 Journey Stats
-
-<div align="center">
-
-```
-🎓 Student Developer    █████████░ 70%
-💻 Problem Solver       ████████░░ 50%
-🌱 Always Learning      ██████████ 99%
-☕ Coffee Enthusiast    ██████████ 50%
-```
-
-</div>
-
-> *"Code is poetry written in logic"*
+> _"Code is poetry written in logic"_
 
 I'm always excited to collaborate on interesting projects, discuss new technologies, or simply chat about the ever-evolving world of web development. Whether you're looking for a passionate intern or want to share knowledge, let's build something amazing together!
 
@@ -115,6 +89,6 @@ I'm always excited to collaborate on interesting projects, discuss new technolog
 
 ---
 
-*Made with ❤️ and lots of ☕ in Ho Chi Minh City*
+_Made with ❤️ and lots of ☕ in Ho Chi Minh City_
 
 </div>
