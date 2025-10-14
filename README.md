@@ -27,16 +27,16 @@
 
 ## 🎭 About Me
 
-Currently diving deep into the world of **Software Engineering** at the **Academy of Cryptography Techniques (KMA)**, where I'm mastering the art of web development and exploring the endless possibilities of code.
+I am a final-year Software Engineering student at the **Academy of Cryptography Techniques (KMA)**, with a strong focus on full-stack web development using the MERN stack. I am passionate about building intuitive user interfaces and scalable backend systems.
 
 **Location:** Ho Chi Minh City, Vietnam 🇻🇳  
 **Status:** Actively seeking internship opportunities to grow and contribute
 
-## ⚡ Tech Arsenal
+## 🛠️ My Tech Stack
 
 <div align="center">
 
-### Frontend Magic ✨
+### Frontend
 
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
@@ -53,7 +53,7 @@ Currently diving deep into the world of **Software Engineering** at the **Academ
 <span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
 &nbsp;
 
-### Backend Power ⚡
+### Backend
 
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
@@ -68,13 +68,9 @@ Currently diving deep into the world of **Software Engineering** at the **Academ
 
 ## 📈 Github Stats
 
-<div align=center>
-  <a href="#" title="ThangHuynhDuc">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thang-huynhduc&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="ThangHuynhDuc">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=thang-huynhduc&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
-  </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thang-huynhduc&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" alt="Thang's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thang-huynhduc&layout=compact&theme=react&border_color=61dafb&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
 </div>
 
 ---
