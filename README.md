@@ -3,7 +3,7 @@
 <div align="center">
 <img src="./svg/ThangHuynhDuc_svg.svg" alt="Thang-svg" width="100%" />
 
-## 🌐 Let's Connect!
+## Let's Connect!
 
 <!-- https://icons8.com -->
 <div align="center">
@@ -25,48 +25,39 @@
 </div>
 </div>
 
-## 🎭 About Me
+## About Me
 
-I am a final-year Software Engineering student at the **Academy of Cryptography Techniques (KMA)**, with a strong focus on full-stack web development using the MERN stack. I am passionate about building intuitive user interfaces and scalable backend systems.
+I am a final-year Software Engineering student at the **Academy of Cryptography Techniques (KMA)**, with a strong focus on full-stack web development using the MERN stack. I build backend systems that care about performance, security, and scale — not just getting things to work.
 
 **Location:** Ho Chi Minh City, Vietnam 🇻🇳  
 **Status:** Actively seeking internship opportunities to grow and contribute
 
-## 🛠️ My Tech Stack
+## My Tech Stack
 
-<div align="center">
+<div align="center"> 
+  <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" height="25" /> &nbsp; 
+  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="25" /> &nbsp; 
+  <img src="https://img.shields.io/badge/NestJS-282C34?logo=nestjs&logoColor=E0234E" height="25" /> &nbsp; 
+  <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" height="25" /> &nbsp; 
+  <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" height="25" /> &nbsp; 
+  <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="25" /> &nbsp; 
+  <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" height="25" /> &nbsp; 
+  <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" height="25" /> &nbsp; 
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" height="25" />
 
-### Frontend
+  <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" height="25" /> &nbsp; 
+  <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" height="25" /> &nbsp; 
+  <img src="https://img.shields.io/badge/Prisma-282C34?logo=prisma&logoColor=FFFFFF" height="25" /> &nbsp; 
+  <img src="https://img.shields.io/badge/Drizzle-282C34?logo=drizzle&logoColor=C5F74F" height="25" /> &nbsp; 
+  <img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=DC382D" height="25" /> &nbsp; 
+  <img src="https://img.shields.io/badge/NATS-282C34?logo=natsdotio&logoColor=27AAE1" height="25" /> &nbsp; 
+  <img src="https://img.shields.io/badge/RabbitMQ-282C34?logo=rabbitmq&logoColor=FF6600" height="25" /> &nbsp; 
+  <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" height="25" /> &nbsp; 
+  <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" height="25" /> &nbsp; 
+  <img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" height="25" /> &nbsp; 
+  <img src="https://img.shields.io/badge/Stripe-282C34?logo=stripe&logoColor=635BFF" height="25" /> </div>
 
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
-&nbsp;
-
-### Backend
-
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-
-</div>
-
-## 📈 Github Stats
+## Github Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thang-huynhduc&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" alt="Thang's GitHub Stats" width="48%"/>
