@@ -61,7 +61,7 @@
       </text>
       
       <!-- Response -->
-      <text x="20" y="80" fill="#fbbf24">Full-Stack Developer Student</text>
+      <text x="20" y="80" fill="#fbbf24">Software Engineer </text>
       
       <!-- New command -->
       <text x="20" y="110" fill="#7c3aed">thang@dev:~$</text>
@@ -71,8 +71,8 @@
       </text>
       
       <!-- Skills output -->
-      <text x="20" y="130" fill="#06b6d4">// Frontend: React, JavaScript, TypeScript, Tailwind</text>
-      <text x="20" y="150" fill="#10b981">// Backend: Node.js, Express, MongoDB</text>
+      <text x="20" y="130" fill="#06b6d4">// Languages: JavaScript, TypeScript</text>
+      <text x="20" y="150" fill="#10b981">// Framework: Node.js, Express, NestJs, React/NextJs, MongoDB, PostgreSQL</text>
       
       <!-- Cursor -->
       <text x="20" y="170" fill="#00ff41" opacity="1">
