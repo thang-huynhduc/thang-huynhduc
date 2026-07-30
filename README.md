@@ -27,7 +27,7 @@
 
 ## About Me
 
-I am a final-year Software Engineering student at the **Academy of Cryptography Techniques (KMA)**, with a strong focus on full-stack web development using the MERN stack. I build backend systems that care about performance, security, and scale — not just getting things to work.
+I am a final-year Software Engineering student at the **Academy of Cryptography Techniques (KMA)**. I build backend systems that care about performance, security, and scale — not just getting things to work.
 
 **Location:** Ho Chi Minh City, Vietnam 🇻🇳  
 **Status:** Actively seeking internship opportunities to grow and contribute
